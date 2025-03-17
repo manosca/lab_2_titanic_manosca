@@ -1,0 +1,1 @@
+# lab_2_titanic_manosca
